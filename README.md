@@ -1,6 +1,12 @@
 # vue-practice
 
-## Project setup
+## Project Title
+Shopping cart (Vue)
+
+### Project Description
+Allow users add items to cart and Pay for selected products
+
+### Project Setup
 ```
 npm install
 ```
