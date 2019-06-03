@@ -1,9 +1,7 @@
-# vue-practice
+# Shopping cart (Vue)
 
-## Project Title
-Shopping cart (Vue)
 
-### Project Description
+## Project Description
 Allow users add items to cart and Pay for selected products
 
 ### Project Setup
